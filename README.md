@@ -4,6 +4,12 @@
 ## How to use it
 - 
 00
-## Requirements
-- download requirements.txt
-- pip install -e requirements.txt
+## Information
+- Using Pennylane
+- Using 4 qubit
+
+## How to use
+- pip install -r requirements.txt
+
+## Information
+- Using Pennylane
